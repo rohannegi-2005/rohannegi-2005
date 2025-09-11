@@ -25,8 +25,7 @@ I love solving problems, automating tasks, and creating impactful projects.
 - Firebase  
 - Git & GitHub  
 - VS Code  
-- AWS (basic)  
-- GCP (Firebase services)  
+- AWS (basic)    
 
 ---
 
