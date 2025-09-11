@@ -37,8 +37,7 @@ I love solving problems, automating tasks, and creating impactful projects.
   [Live Demo](https://resumescanner-h4dxepxy8dyxs6txvgjazj.streamlit.app/)  
 
 - [🛒 SmartKhata System](https://github.com/rohannegi-2005/SmartKhata)  
-  A **voice-driven debt management system** using **Streamlit, Google Speech API, Firebase** for real-time "Udhaar" tracking.  
-
+  A **voice-driven debt management system** using **Streamlit, Google Speech API, Gemini API, and Firebase** for real-time "Udhaar" tracking. 
 ---
 
 ## 📊 GitHub Stats  
