@@ -27,7 +27,7 @@ I love solving problems, automating tasks, and creating impactful projects.
 - VS Code  
 - AWS (basic)
 
-## 💡 Skills
+### 💡 Skills
 - Retrieval-Augmented Generation (RAG) (currently learning)
 - Natural Language Processing (NLP)
 - Machine Learning
