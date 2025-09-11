@@ -25,7 +25,14 @@ I love solving problems, automating tasks, and creating impactful projects.
 - Firebase  
 - Git & GitHub  
 - VS Code  
-- AWS (basic)    
+- AWS (basic)
+
+## 💡 Skills
+- Retrieval-Augmented Generation (RAG) (currently learning)
+- Natural Language Processing (NLP)
+- Machine Learning
+- Data Analysis
+
 
 ---
 
