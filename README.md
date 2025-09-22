@@ -17,7 +17,8 @@ Curious and driven developer passionate about solving real-world problems with *
 - **Languages:** R  
 - **Cloud & Databases:** Firebase, AWS (basic)  
 - **RAG & LLM Tools:** LangChain (learning), Retrieval-Augmented Generation (learning)  
-- **IDEs & Tools:** VS Code
+- **IDEs & Tools:** VS Code, Jupyter Notebook, Google Colab
+
 
 ### 💡 Soft Skills
 - Problem-solving · Collaboration · Communication · Quick Learner
