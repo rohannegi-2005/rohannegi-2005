@@ -2,64 +2,49 @@
 
 💻 **Python Developer | Data Science Student | AI Application Builder**
 
-I am a Computer Science undergraduate specializing in **Data Science** who enjoys building **AI-powered applications, automation tools, and data-driven systems** using Python and modern ML frameworks.
-
-My focus areas include:
-
-- Machine Learning & Data Analytics
-- NLP and AI Applications
-- Retrieval-Augmented Generation (RAG)
-- Automation systems for real-world problems
-
-Currently exploring:
-
-- LangChain & LLM workflows  
-- RAG-based AI systems  
-- ML model deployment & cloud integration  
+I build **AI-powered applications and data-driven tools** using Python, Machine Learning, and modern AI frameworks.  
+My interests include **LLM applications, data analytics, and automation systems that solve real-world problems.**
 
 ---
 
-# 🧠 Technical Skills
+# 🧠 Tech Stack
 
 ### Programming
-Python · SQL · R
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Data Science & Machine Learning
-Pandas · NumPy · Scikit-learn · Data Analysis · Machine Learning · NLP
-
-### AI / LLM Tools
-LangChain · Retrieval-Augmented Generation (RAG)
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge)
 
 ### Frameworks
-Streamlit · Flask
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 ### Cloud & Databases
-AWS (EC2, S3, Lambda, IAM, CodePipeline) · Firebase · PostgreSQL
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-### Development Tools
-Git · GitHub · Power BI · VS Code · Jupyter Notebook · Google Colab
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 SmartKhata – Voice Driven Udhaar Management System
+### 🛒 SmartKhata – Voice Driven Udhaar Management System
 
-AI-powered system designed for small shop owners to manage **credit transactions using voice commands**.
+AI-powered system for small shop owners to manage **credit transactions using voice commands**.
 
-**Tech Stack**
-
-Python · Streamlit · Firebase · Google Speech API · Gemini AI
-
-**Key Features**
-
-- Voice-to-text transaction logging  
-- Automatic conversion of speech input to structured JSON data  
-- Real-time transaction storage using Firebase  
-- Financial visualization dashboard  
+**Tech Stack:** Python, Streamlit, Firebase, Google Speech API, Gemini AI  
 
 **Impact**
-
 - Reduced manual entry errors by **~40%**
 - Improved tracking efficiency for small businesses
 
@@ -68,19 +53,11 @@ https://github.com/rohannegi-2005/SmartKhata
 
 ---
 
-## 📄 AI Resume Screening System
+### 📄 AI Resume Screening System
 
-An **NLP-powered resume screening tool** for automated candidate shortlisting.
+NLP-based system that automatically **shortlists candidates from resumes**.
 
-**Tech Stack**
-
-Python · Word2Vec · Regex · FuzzyWuzzy · Streamlit
-
-**Key Features**
-
-- Automated resume skill extraction  
-- Semantic similarity matching using Word2Vec  
-- Bulk resume parsing and Excel shortlist generation  
+**Tech Stack:** Python, Word2Vec, Regex, FuzzyWuzzy, Streamlit  
 
 **Impact**
 
@@ -92,50 +69,41 @@ https://github.com/rohannegi-2005/Resume_Scanner
 
 ---
 
-## 📚 PDF Insight AI
+### 📚 PDF Insight AI (RAG System)
 
-A **Retrieval-Augmented Generation (RAG) system** that converts PDFs into searchable AI knowledge bases.
+A **Retrieval-Augmented Generation system** that converts PDFs into searchable AI knowledge bases.
 
-**Tech Stack**
-
-LangChain · HuggingFace Embeddings · AstraDB Vector Store · Groq LLM
+**Tech Stack:** LangChain, HuggingFace Embeddings, AstraDB, Groq LLM
 
 **Features**
 
-- Document ingestion pipeline  
-- Semantic document search  
-- LLM-powered question answering over PDFs  
+- Semantic document search
+- LLM-powered question answering
+- Document ingestion pipeline
 
 🔗 Repo  
 https://github.com/rohannegi-2005/PDF-Insight-AI
 
 ---
 
-# 💼 Internship Experience
+# 💼 Internship
 
 ### Cloud Computing Intern — Papaya Coders Pvt. Ltd.
 
-Worked with **AWS cloud services** and deployment pipelines.
+Worked with **AWS cloud services and deployment pipelines**.
 
-**Key Work**
+**Technologies**
 
-- Deployed applications using **AWS EC2 and S3**
-- Implemented cloud automation workflows
-- Worked with **IAM, Lambda, and CodePipeline**
+AWS EC2 • S3 • Lambda • IAM • CodePipeline
 
 ---
 
-# 🧩 Problem Solving & DSA
+# 🧩 Problem Solving
 
 I regularly practice **Data Structures and Algorithms**.
 
 🏏 LeetCode  
 https://leetcode.com/u/Rohann_18/
-
-Achievements
-
-- 🏅 **LeetCode 50 Active Days Badge**
-- Solving problems from **Striver's A2Z DSA Sheet**
 
 Focus Areas
 
@@ -145,13 +113,15 @@ Focus Areas
 - Trees
 - Dynamic Programming
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rohann_18?theme=dark)
+
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohannegi-2005&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohannegi-2005&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohannegi-2005&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohannegi-2005&layout=compact&theme=tokyonight)
 
 ---
 
@@ -165,7 +135,7 @@ University of Petroleum and Energy Studies (UPES)
 
 # 📜 Certifications
 
-- HackerRank **Python (Intermediate)** Certification  
+- HackerRank **Python (Intermediate)**
 - Microsoft **Azure Machine Learning Fundamentals**
 
 ---
@@ -179,7 +149,7 @@ rohannnegi2005@gmail.com
 https://www.linkedin.com/in/rohan-negi-2005-
 
 💻 GitHub  
-https://github.com/rohannegi-2005
+https://github.com/rohannegi-2005  
 
 🏏 LeetCode  
 https://leetcode.com/u/Rohann_18/
