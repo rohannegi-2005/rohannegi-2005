@@ -7,6 +7,16 @@ My interests include **LLM applications, data analytics, and automation systems 
 
 ---
 
+## 🎯 Focus Areas
+
+Machine Learning • Data Analytics • NLP • RAG Systems • AI Applications
+
+Currently exploring:
+
+LangChain • LLM Workflows • ML Deployment • Cloud Integration
+
+---
+
 # 🧠 Tech Stack
 
 ### Programming
