@@ -33,7 +33,7 @@ Built an end-to-end pipeline: **Google Speech API → LLM (LLaMA 3.1) extraction
 
 ---
 
-### 🗂️ Jeera — Full-Stack Project Management SaaS
+### 🗂️ Jira-lite — Full-Stack Project Management SaaS
 > A production-grade Jira alternative built from scratch — multi-tenant workspaces, Kanban boards, real auth, and email notifications.
 
 **React 19 + TypeScript** frontend with **TanStack React Query** (optimistic Kanban updates with auto-rollback), **Zustand** global state, and **@dnd-kit** drag-and-drop. **FastAPI + Python 3.12** backend with **SQLAlchemy 2.0**, **Alembic** migrations, **JWT + bcrypt-OTP** dual-layer auth, and a custom SMTP adapter pattern (swap email provider by editing 4 lines). Role-Based Access Control across Owner / Admin / Member tiers, enforced at the dependency-injection layer.
